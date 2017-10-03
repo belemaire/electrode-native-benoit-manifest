@@ -5,5 +5,13 @@
     ],
     "targetJsDependencies": [
     ]
+  },
+  {
+    "platformVersion": "1000.0.0",
+    "targetNativeDependencies": [
+      "react-native-code-push@5.1.3-beta"
+    ],
+    "targetJsDependencies": [
+    ]
   }
 ]
