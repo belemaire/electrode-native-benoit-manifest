@@ -21,7 +21,10 @@
         "\"$(SRCROOT)/{{{projectName}}}/Libraries/RCTFBSDK/**\""
       ],
       "addFrameworkReference": [
-        { "name": "Bolts.framework", "path": "../../../Modules/WalmartIOSShared/Externals/FacebookSDK/Bolts.framework"}
+        "../../../Modules/WalmartIOSShared/Externals/FacebookSDK/Bolts.framework",
+        "../../../Modules/WalmartIOSShared/Externals/FacebookSDK/FBSDKCoreKit.framework",
+        "../../../Modules/WalmartIOSShared/Externals/FacebookSDK/FBSDKLoginKit.framework",
+        "../../../Modules/WalmartIOSShared/Externals/FacebookSDK/FBSDKShareKit.framework"
       ]
     }
   }
