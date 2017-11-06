@@ -9,7 +9,7 @@
   {
     "platformVersion": "1000.0.0",
     "targetNativeDependencies": [
-      "react-native@0.50.0"
+      "react-native@0.50.1"
     ],
     "targetJsDependencies": [
        "react@16.0.0"
